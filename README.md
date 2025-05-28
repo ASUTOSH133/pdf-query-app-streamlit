@@ -12,25 +12,35 @@ This is a lightweight, Streamlit-based version of the PDF Query App. It allows y
 - Built with Streamlit, LangChain, and PDF processing libraries
 
 ---
+1. Clone the Repository  
+    ```bash
+    git clone https://github.com/ASUTOSH133/pdf-query-app-streamlit.git 
+    cd pdf-query-app-streamlit
+    ```
 
-## 🛠️ Setup Instructions
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/ASUTOSH133/pdf-query-app-streamlit.git
-cd pdf-query-app-streamlit
-
-2. Create a Virtual Environment
+2. Create a Virtual Environment  
+    ```bash
     python -m venv venv
+    ```
 
-3. Activate the Virtual Environment
-    Windows: venv\Scripts\activate
-    macOS/Linux: source venv/bin/activate
+3. Activate the Virtual Environment  
+    Windows:
+    ```bash
+    venv\Scripts\activate
+    ```
+    macOS/Linux:
+    ```bash
+    source venv/bin/activate
+    ```
 
-4. Install Dependencies
+4. Install Dependencies  
+    ```bash
     pip install -r requirements.txt
+    ```
 
-5. Run the Application
+5. Run the Application  
+    ```bash
     streamlit run app.py
+    ```
+
 
