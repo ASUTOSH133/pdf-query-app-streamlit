@@ -43,4 +43,15 @@ This is a lightweight, Streamlit-based version of the PDF Query App. It allows y
     streamlit run app.py
     ```
 
+## 📸 App Screenshots
+
+### 🔍 Home Screen
+![Home Screen- Black](screenshots/app-result1.1.png)
+![Home Screen- White](screenshots/app-result2.1.png)
+
+### 💬 Query Result
+![Query Result-Black](screenshots/app-result1.2.png)
+![Query Result-Black](screenshots/app-result1.3.png)
+![Query Result-White](screenshots/app-result2.2.png)
+
 
